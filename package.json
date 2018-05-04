@@ -1,6 +1,6 @@
 {
   "name": "idsk_template_mustache",
-  "version": "0.24.4",
+  "version": "0.24.5",
   "description": "{{ mustache }} packaged version of the ID-SK template",
   "keywords": ["alphagov", "id-sk", "mustache", "template"],
   "bugs": "https://github.com/id-sk/idsk_template_mustache/issues",
